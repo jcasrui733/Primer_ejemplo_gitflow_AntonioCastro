@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_antoniocastro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcasrui733/Primer_ejemplo_gitflow_AntonioCastro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcasrui733/Primer_ejemplo_gitflow_AntonioCastro/issues"
+  },
+  "homepage": "https://github.com/jcasrui733/Primer_ejemplo_gitflow_AntonioCastro#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
